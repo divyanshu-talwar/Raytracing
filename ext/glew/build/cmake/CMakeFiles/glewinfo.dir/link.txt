@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/glewinfo.dir/__/__/src/glewinfo.c.o  -o ../../../../bin/glewinfo -Wl,-rpath,"/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/lib:" ../../../../lib/libGLEW.so.2.1.0 -lSM -lICE -lX11 -lXext -lGL -lGLU 

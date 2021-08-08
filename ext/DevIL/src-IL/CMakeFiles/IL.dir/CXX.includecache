@@ -1,0 +1,730 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/altivec_common.cpp
+config.h
+-
+altivec_common.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/altivec_common.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/altivec_typeconversion.cpp
+config.h
+-
+altivec_typeconversion.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/altivec_typeconversion.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_alloc.cpp
+stdlib.h
+-
+crtdbg.h
+-
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+stdlib.h
+-
+math.h
+-
+mm_malloc.h
+-
+windows.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bits.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_bits.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bits.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_blp.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_dds.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bmp.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_bmp.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bmp.h
+il_endian.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_endian.h
+stdio.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_convbuff.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+altivec_typeconversion.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/altivec_typeconversion.h
+limits.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_convert.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+limits.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_cut.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_pal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pal.h
+il_bits.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bits.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dcx.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_dcx.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dcx.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds-save.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_dds.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds.h
+limits.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_dds.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_devil.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+string.h
+-
+limits.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dicom.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_doom.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_pal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pal.h
+il_doompal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_doompal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dpx.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_dpx.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dpx.h
+il_bits.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bits.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_endian.cpp
+il_endian.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_endian.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_error.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_exr.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_exr.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_exr.h
+ImfRgba.h
+-
+ImfArray.h
+-
+ImfRgbaFile.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_fastconv.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+altivec_typeconversion.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/altivec_typeconversion.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_files.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+stdarg.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_fits.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_ftx.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_gif.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_gif.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_gif.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_hdr.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_hdr.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_hdr.h
+il_endian.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_endian.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_header.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_icns.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_icns.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_icns.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_icon.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_icon.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_icon.h
+png.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_iff.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_ilbm.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+stdlib.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+string.h
+-
+stdlib.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_io.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_register.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_register.h
+il_pal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pal.h
+string.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_iwi.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_dds.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_jp2.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+jasper/jasper.h
+-
+il_jp2.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_jp2.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_jpeg.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+jpeglib.h
+-
+ijl.h
+-
+limits.h
+-
+il_jpeg.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_jpeg.h
+setjmp.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_ktx.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_bits.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bits.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_lif.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_lif.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_lif.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_main.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_manip.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_mdl.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_mdl.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_mdl.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_mng.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+libmng.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_mp3.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_neuquant.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_nvidia.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_dds.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds.h
+limits.h
+-
+nvtt/nvtt.h
+-
+nvcore/Memory.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pal.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_pal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pal.h
+string.h
+-
+ctype.h
+-
+limits.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pcd.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pcx.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_pcx.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pcx.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pic.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_pic.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pic.h
+string.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pix.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_endian.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_endian.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_png.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+png.h
+-
+stdlib.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pnm.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_pnm.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pnm.h
+limits.h
+-
+ctype.h
+-
+il_bits.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bits.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_profiles.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+lcms.h
+-
+lcms/lcms.h
+-
+lcms2.h
+-
+lcms2.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_psd.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_psd.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_psd.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_psp.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_psp.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_psp.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_pxr.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_endian.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_endian.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_quantizer.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_raw.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_rawdata.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_register.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_register.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_register.h
+string.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_rle.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_rle.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_rle.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_rot.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_dds.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_sgi.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_sgi.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_sgi.h
+limits.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_size.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_squish.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_manip.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_manip.h
+limits.h
+-
+squish.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_stack.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_stack.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_stack.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_states.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_states.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_states.h
+stdlib.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_sun.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_bits.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bits.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_targa.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_targa.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_targa.h
+string.h
+-
+il_bits.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bits.h
+dos.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_texture.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_tiff.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+tiffio.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/tiffio.h
+time.h
+-
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_tpl.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_dds.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_utility.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_utx.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_utx.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_utx.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_vtf.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_vtf.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_vtf.h
+il_dds.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_dds.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_wal.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_q2pal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_q2pal.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_wbmp.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+il_bits.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_bits.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_wdp.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+WMPGlue.h
+-
+il_wdp.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_wdp.h
+
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_xpm.cpp
+il_internal.h
+/home/divyanshu/Desktop/IIITD/7th Semester/CG/Assignments/cg_4_assignment/Assignment04_code/ext/DevIL/src-IL/src/il_internal.h
+ctype.h
+-
+
+ext/DevIL/include/IL/devil_internal_exports.h
+IL/il.h
+ext/DevIL/include/IL/IL/il.h
+assert.h
+-
+
+ext/DevIL/include/IL/il.h
+stdio.h
+-
+limits.h
+-
+wchar.h
+-
+
+ext/DevIL/src-IL/include/altivec_common.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/altivec_typeconversion.h
+altivec_common.h
+ext/DevIL/src-IL/include/altivec_common.h
+
+ext/DevIL/src-IL/include/config.h
+
+ext/DevIL/src-IL/include/il_bits.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_bmp.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_dcx.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_dds.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_doompal.h
+
+ext/DevIL/src-IL/include/il_dpx.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_endian.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_exr.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+ImfIO.h
+-
+
+ext/DevIL/src-IL/include/il_files.h
+IL/il.h
+-
+
+ext/DevIL/src-IL/include/il_gif.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_hdr.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_icns.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_icon.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_internal.h
+config.h
+ext/DevIL/src-IL/include/config.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+string.h
+-
+IL/il.h
+-
+IL/devil_internal_exports.h
+-
+il_files.h
+ext/DevIL/src-IL/include/il_files.h
+il_endian.h
+ext/DevIL/src-IL/include/il_endian.h
+il_manip.h
+ext/DevIL/src-IL/include/il_manip.h
+windows.h
+-
+
+ext/DevIL/src-IL/include/il_jp2.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_jpeg.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_lif.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_manip.h
+
+ext/DevIL/src-IL/include/il_mdl.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_pal.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_pcx.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_pic.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_pnm.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_psd.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_psp.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_q2pal.h
+
+ext/DevIL/src-IL/include/il_register.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_rle.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_sgi.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_stack.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_states.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_targa.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_utx.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+il_dds.h
+ext/DevIL/src-IL/include/il_dds.h
+memory
+-
+vector
+-
+string
+-
+
+ext/DevIL/src-IL/include/il_vtf.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
+ext/DevIL/src-IL/include/il_wdp.h
+il_internal.h
+ext/DevIL/src-IL/include/il_internal.h
+
