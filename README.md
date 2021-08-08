@@ -26,7 +26,7 @@ In this project we:
 5. Beer–Lambert law
 		Refraction (Schlick’s approximation)               |  Refraction (Schlick’s approximation + Beer's Law)
 	  :-------------------------:|:-------------------------:
-	  ![cube_image](results/refration.png)  |  ![sphere_image](results/beers.png)
+	  ![cube_image](results/refraction.png)  |  ![sphere_image](results/beers.png)
 
 ## Execution
 * Generate the object file:
